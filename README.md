@@ -14,3 +14,7 @@ O projeto apresenta uma análise de dados de anúncio de carros e um app web des
 -pandas
 -plotly-express
 -streamlit
+
+##Caminho render:
+
+https://projeto-hwi0.onrender.com/
